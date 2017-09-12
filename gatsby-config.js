@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: `/Ronak.io`,
   siteMetadata: {
     title: `Gatsby Default Starter`,
   },
