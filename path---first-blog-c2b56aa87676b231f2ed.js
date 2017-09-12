@@ -1,0 +1,2 @@
+webpackJsonp([0x428640f3ce6eb400],{"./node_modules/json-loader/index.js!./.cache/json/first-blog.json":function(t,o){t.exports={data:{markdownRemark:{html:"<h2>Hello!</h2>\n<p>This is my first blog post! Exciting, isn't it?</p>",frontmatter:{path:"/firstBlog",title:"First Blog Post"}}},pathContext:{}}}});
+//# sourceMappingURL=path---first-blog-c2b56aa87676b231f2ed.js.map
